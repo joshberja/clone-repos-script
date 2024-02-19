@@ -1,9 +1,7 @@
 # clone-repos-script
 Clone multiple GitHub repositories.
 
-Whenever I erase and reinstall macOS, I need to clone the same git repositories. There isn't a way to git clone more than one repository at the same time officially with the git command at this time. This bash script lets me clone multiple repositories.
-
-Note: This is for macOS only.
+Whenever I erase and reinstall macOS or Linux, I need to clone the same git repositories. There isn't a way to git clone more than one repository at the same time officially with the git command at this time. This bash script lets me clone multiple repositories.
 
 ## Instructions
 1. Open the 'clone_repos.sh' via a text editor.
